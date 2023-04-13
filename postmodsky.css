@@ -224,7 +224,7 @@ ul.thin li {
 }
 #footer {
   
-  background-color: #000;
+  background-color: rgba(0,0,0,0.5);
   background-image: url(images/bg_footer.png);
   margin-top: 40px;
   width: 100%;
