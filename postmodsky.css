@@ -691,7 +691,7 @@ ul.poll li.graph {
   filter: alpha(opacity=50);
 }
 .hide_torrents {
-  background: url(images/hide.png) no-repeat 50%;
+  background: url(https://imgur.com/MmDweWV.png) no-repeat 50%;
 }
 .show_torrents_link {
   border: none;
@@ -754,28 +754,28 @@ tr.torrent td {
   white-space: nowrap;
 }
 .unread_locked_sticky {
-  background: url(images/locked_sticky_unread.png) no-repeat 50%;
+  background: url(https://orpheus.network/images/locked_sticky_unread.png) no-repeat 50%;
 }
 .read_locked_sticky {
-  background: url(images/locked_sticky_read.png) no-repeat 50%;
+  background: url(https://orpheus.network/images/locked_sticky_read.png) no-repeat 50%;
 }
 .read_sticky {
-  background: url(images/sticky_read.png) no-repeat 50%;
+  background: url(https://orpheus.network/images/sticky_read.png) no-repeat 50%;
 }
 .unread_sticky {
-  background: url(images/sticky_unread.png) no-repeat 50%;
+  background: url(https://orpheus.network/images/sticky_unread.png) no-repeat 50%;
 }
 .unread_locked {
-  background: url(images/locked_unread.png) no-repeat 50%;
+  background: url(https://orpheus.network/images/locked_unread.png) no-repeat 50%;
 }
 .read_locked {
-  background: url(images/locked_read.png) no-repeat 50%;
+  background: url(https://orpheus.network/images/locked_read.png) no-repeat 50%;
 }
 .unread {
-  background: url(images/unread.png) no-repeat 50%;
+  background: url(https://orpheus.network/images/unread.png) no-repeat 50%;
 }
 .read {
-  background: url(images/read.png) no-repeat 50%;
+  background: url(https://orpheus.network/images/read.png) no-repeat 50%;
 }
 table.forum_post {
   margin: 10px 0;
