@@ -223,12 +223,14 @@ ul.thin li {
   box-shadow: 1px 3px rgba(0, 0, 0, 0.5);
 }
 #footer {
-  background: transparent url(images/bg_footer.png);
+  
+  background-color: black;
+  background-image: url(images/bg_footer.png);
   margin-top: 40px;
   width: 100%;
   text-align: center;
   padding: 1em 0;
-  color: #ccc;
+  color: #fff;
   font-size: 8pt;
 }
 #footer:after {
