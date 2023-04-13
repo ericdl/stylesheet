@@ -377,7 +377,8 @@ logo a:focus {
   padding: 0 2px 0 10px;
   font-family: Helvetica, Arial, sans-serif;
   height: 22px;
-  background: url(images/content_light.png) transparent;
+  /*background: url(images/content_light.png) transparent;*/
+  background-color: rgba(0,0,0,0.50);
   color: #fff;
   border-radius: 4px;
   box-shadow: 0 2px rgba(0, 0, 0, 0.5);
@@ -388,7 +389,8 @@ logo a:focus {
 #autocomplete,
 #searchbars input:active,
 #searchbars input:focus {
-  background: url(images/content.png);
+  /*background: url(images/content.png);*/
+  background-color: rgba(0,0,0,0.75);
   border: 1px solid #eee;
 }
 #searchbars ul {
@@ -409,7 +411,8 @@ logo a:focus {
   left: 0;
   z-index: 1000;
   border: 1px solid #eee;
-  background: url(images/content.png);
+  /*background: url(images/content.png);*/
+  background-color: rgba(0,0,0,0.75);
   width: 12em;
   margin-top: 12px;
 }
@@ -462,7 +465,8 @@ table.no_grouping > tbody > tr.torrent > td:first-child + td {
 .last_read {
   width: 15px;
   height: 15px;
-  background: url(images/go_last_read.png) no-repeat 50%;
+  /*background: url(images/go_last_read.png) no-repeat 50%;*/
+  background-color: rgba(0,0,0,0.50);
   margin-left: 5px;
 }
 .last_read a {
