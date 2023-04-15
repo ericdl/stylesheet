@@ -497,7 +497,8 @@ div#flip_view_1 div#similar-artist .name {
 .thin {
   width: 1000px;
   margin: 0 auto;
-  color: #646464;
+  color: #646464
+  -webkit-text-stroke-color: #ffffff;
 }
 .linkbox {
   padding: 5px;
