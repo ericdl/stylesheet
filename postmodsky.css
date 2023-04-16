@@ -43,7 +43,7 @@ body {
 .sidebar,
 .thin,
 table tbody {
-  color: #444;
+  color: #cf8e0c; /*#444*/
 }
 a {
   text-decoration: none;
